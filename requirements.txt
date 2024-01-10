@@ -1,0 +1,2 @@
+websocket-client==1.4.2
+openssl==1.1.1d
